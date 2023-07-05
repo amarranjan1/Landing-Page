@@ -30,3 +30,4 @@ Please refer to the Udacity JavaScript Style Guide - Comments and Udacity JavaSc
 Dependencies The project has no external dependencies and can be run directly by opening the index.html file in a web browser.
 
 Usage To use the landing page, simply open the index.html file in a web browser. The landing page will load, and you can navigate through the sections using the dynamically generated navigation menu. Clicking on a navigation item will smoothly scroll to the corresponding section on the page.
+![image2](https://github.com/amarranjan1/Landing-Page/assets/35811614/a0ed9e3e-b0c3-42c8-8a8a-b4bb024fdfb1)
